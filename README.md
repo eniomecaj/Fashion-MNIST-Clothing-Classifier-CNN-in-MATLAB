@@ -6,7 +6,7 @@ MSc Artificial Intelligence Architectures (EG7227) | Group B Competition | Unive
 
 This project was developed as part of an in-module AI competition where each group trained a Convolutional Neural Network to classify clothing items from the Fashion MNIST dataset. The goal was to maximise test accuracy while also evaluating the model against real-world clothing images sourced by each team member.
 
-Group B achieved a team average of **91% test accuracy**, with the top individual submission reaching **92%**.
+Group B achieved a team average of **91% test accuracy**, with the top individual submission reaching **93%**.
 
 ## Dataset
 
