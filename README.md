@@ -1,4 +1,3 @@
-<img width="612" height="358" alt="Picture5" src="https://github.com/user-attachments/assets/28c4ad78-ebd5-4031-9ebf-20cb4d479a39" />
 # Fashion MNIST Clothing Classifier — CNN in MATLAB
 
 MSc Artificial Intelligence Architectures (EG7227) | Group B Competition | University of Leicester, 2025–26
