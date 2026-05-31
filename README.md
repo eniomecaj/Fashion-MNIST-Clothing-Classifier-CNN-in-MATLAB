@@ -1,8 +1,4 @@
-# Fashion-MNIST-Clothing-Classifier-CNN-in-MATLAB
-CNN clothing classifier trained on Fashion MNIST using MATLAB Deep Learning Toolbox. Built as part of an MSc AI competition Group B achieved 91% average test accuracy.
-# Fashion MNIST Clothing Classifier — CNN in MATLAB
-
-MSc Artificial Intelligence Architectures (EG7227) | Group B Competition | University of South Wales, 2025–26
+MSc Artificial Intelligence Architectures | Group B Competition | University of Leicester, 2025–26
 
 ## Overview
 
