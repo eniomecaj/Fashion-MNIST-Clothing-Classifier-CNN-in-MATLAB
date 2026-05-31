@@ -1,3 +1,4 @@
+<img width="612" height="358" alt="Picture5" src="https://github.com/user-attachments/assets/28c4ad78-ebd5-4031-9ebf-20cb4d479a39" />
 # Fashion MNIST Clothing Classifier — CNN in MATLAB
 
 MSc Artificial Intelligence Architectures (EG7227) | Group B Competition | University of Leicester, 2025–26
@@ -30,6 +31,7 @@ In addition to the standard test set, each team member sourced their own real cl
 ## Implementation
 
 The classifier was built entirely in MATLAB using the Deep Learning Toolbox. The main script `traintestCNNonClothes.mlx` covers the full pipeline: data loading, preprocessing, CNN architecture definition, training, and evaluation against both the standard test set and the custom clothing images.
+<img width="612" height="358" alt="Picture5" src="https://github.com/user-attachments/assets/158fb7b7-036d-4ef6-a25f-2be6ac75fe2e" />
 
 ## Results
 
