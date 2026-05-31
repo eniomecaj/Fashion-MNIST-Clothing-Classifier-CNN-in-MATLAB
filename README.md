@@ -1,6 +1,6 @@
 # Fashion MNIST Clothing Classifier — CNN in MATLAB
 
-MSc Artificial Intelligence Architectures | Group B Competition | University of Leicester, 2025–26
+MSc Artificial Intelligence Architectures (EG7227) | Group B Competition | University of South Wales, 2025–26
 
 ## Overview
 
