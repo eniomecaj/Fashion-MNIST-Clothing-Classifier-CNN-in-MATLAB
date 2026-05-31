@@ -1,6 +1,6 @@
 # Fashion MNIST Clothing Classifier — CNN in MATLAB
 
-MSc Artificial Intelligence Architectures | Group B Competition | University of Leicester, 2025–26
+MSc Artificial Intelligence Architectures (EG7227) | Group B Competition | University of Leicester, 2025–26
 
 ## Overview
 
@@ -60,11 +60,12 @@ Each member contributed personal clothing images used for real-world model evalu
 
 ```
 ├── traintestCNNonClothes.mlx       # Main MATLAB live script
+├── train-images-idx3-ubyte         # Fashion MNIST training images
+├── train-labels-idx1-ubyte         # Fashion MNIST training labels
+├── t10k-images-idx3-ubyte          # Fashion MNIST test images
+├── t10k-labels-idx1-ubyte          # Fashion MNIST test labels
 ├── EnioClothingImages/             # Real clothing images (Enio)
 ├── KaiClothingImages/              # Real clothing images (Kai)
 ├── AdrianClothingImages/           # Real clothing images (Adrian)
-├── AnkitClothingImages/            # Real clothing images (Ankit)
-├── COMPETITION_REPORT.md           # Full results and methodology breakdown
-├── .gitignore
-└── README.md
+└── AnkitClothingImages/            # Real clothing images (Ankit)
 ```
