@@ -60,12 +60,11 @@ Each member contributed personal clothing images used for real-world model evalu
 
 ```
 ├── traintestCNNonClothes.mlx       # Main MATLAB live script
-├── train-images-idx3-ubyte         # Fashion MNIST training images
-├── train-labels-idx1-ubyte         # Fashion MNIST training labels
-├── t10k-images-idx3-ubyte          # Fashion MNIST test images
-├── t10k-labels-idx1-ubyte          # Fashion MNIST test labels
 ├── EnioClothingImages/             # Real clothing images (Enio)
 ├── KaiClothingImages/              # Real clothing images (Kai)
 ├── AdrianClothingImages/           # Real clothing images (Adrian)
-└── AnkitClothingImages/            # Real clothing images (Ankit)
+├── AnkitClothingImages/            # Real clothing images (Ankit)
+├── COMPETITION_REPORT.md           # Full results and methodology breakdown
+├── .gitignore
+└── README.md
 ```
