@@ -8,7 +8,7 @@ MSc Artificial Intelligence Architectures (EG4227/EG7227) | University of Leices
 |------|----------|
 | Enio Mecaj | em591 |
 | Ankit Sharma | as1778 |
-| Nguyen Gia Hy Truong | nght1 |
+| Kai (Nguyen Gia Hy Truong) | nght1 |
 | Adrian Alimohammadi | ma1163 |
 
 ---
